@@ -391,7 +391,7 @@ span.menu{
     font-weight: normal;
 }
 .about-grid-right p a{
-	color:darkblue;
+	color:#fff;
 }
 .about-grid-right p a:hover{
 	color:#3085A3;
@@ -404,7 +404,6 @@ span.menu{
     font-size: 14px;
     margin-bottom: 1em;
     list-style-type: none;
-    background: url(../video/9.jpg) no-repeat ;
     padding-right: 3em;
     text-transform: uppercase;
 }
